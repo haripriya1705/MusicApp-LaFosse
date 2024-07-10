@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.albumInfo {
+  max-width:300px;
+  margin: auto;
+}
+
+.albumArt {
+  width: 100%;
+  border-radius: 5%;
+}
+
+.artistInfo {
+    max-width: 500px;
+    margin: auto;
+}
